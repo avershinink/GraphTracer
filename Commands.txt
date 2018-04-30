@@ -1,0 +1,10 @@
+getRoutCost : A-B-C
+getRoutCost : A-D
+getRoutCost : A-D-C
+getRoutCost : A-E-B-C-D
+getRoutCost : A-E-D
+tripsCount : C,C,3
+tripsCountEQ : A,C,4
+shortRout : A,C
+shortRout : B,B
+tripsDistLT : C,C,30
