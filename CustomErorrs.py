@@ -10,4 +10,4 @@ class aliasNotFound(BaseException):
     A vertex alias not found.
     """
     def __init__(self, alias):
-        print('Requested [{0}] alias not found'.format(alias))
+        print('Requested [{0}] alias not found'.format(alias)) 
